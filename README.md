@@ -7,7 +7,7 @@ Open, inspect, and analyze <strong>500+ file formats</strong> with zero uploads 
 
 <p>
 🔗 <strong>Live Demo:</strong><br>
-<a href="https://py0sc.github.io/FileViewer/" target="_blank">
+<a href="https://boothy91.github.io/FileViewer/" target="_blank">
 https://py0sc.github.io/FileViewer/
 </a>
 </p>
